@@ -1,7 +1,7 @@
 <?php
 
-$personal_data = ['name' => 'onion','prrice' => '200','weight' => '160'];
+$personal_data = ['name' => 'onion','price' => 200,'weight' => '160'];
 
-print_r(personal_data);
+print_r($personal_data);
 
 ?>
